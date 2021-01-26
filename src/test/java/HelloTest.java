@@ -1,5 +1,6 @@
 public class HelloTest {
     public static void main(String[] args) {
-        System.out.println("rrr");
+        //testing my awsome hello
+        System.out.println("added some stuff for commit2");
     }
 }
