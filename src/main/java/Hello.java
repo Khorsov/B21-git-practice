@@ -4,6 +4,7 @@ public class Hello {
         System.out.println("B21 future sdet");
         System.out.println("movie1");
         //2
+        System.out.println("movie on phone 2");
 
     }
 }
